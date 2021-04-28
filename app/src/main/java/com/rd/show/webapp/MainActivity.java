@@ -190,8 +190,7 @@ public class MainActivity extends AppCompatActivity {
 //    }
 
     private void loadWebsite() {
-//        webView.loadUrl("http://rd-show.com/");
-        webView.loadUrl("http://sofun178.com/");
+        webView.loadUrl("網址");
 
     }
 
